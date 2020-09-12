@@ -9,6 +9,8 @@ Once the user has input a valid number of characters (from 8 to 128) for their p
 
 Once the user has confirmed all of the characters they want in their password, the generator will generate a random password based on the user's choices and write it to the page! 
 
+You can try it yourself at https://mwaslick.github.io/password-generator.index.html!
+
 ## Screenshots
 
 Page Layout
